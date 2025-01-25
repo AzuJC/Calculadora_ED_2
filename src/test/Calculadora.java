@@ -1,5 +1,5 @@
 package test;
-
+import javabean.*;
 // Clase principal para probar la calculadora
 public class Calculadora {
     public static void main(String[] args) {
