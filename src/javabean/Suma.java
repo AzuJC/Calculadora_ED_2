@@ -25,35 +25,35 @@ public class Suma {
     /**
      * Suma dos números reales.
      *
-     * @param a Primer número real a sumar.
-     * @param b Segundo número real a sumar.
+     * @param fac1 Primer número real a sumar.
+     * @param fac2 Segundo número real a sumar.
      * @return El resultado de la suma de los dos números reales.
      */
-    public double sumaReales(double a, double b) {
-        return a + b;
+    public double sumaReales(double fac1, double fac2) {
+        return fac1 + fac2;
     }
 
     /**
      * Suma dos números enteros.
      *
-     * @param a Primer número entero a sumar.
-     * @param b Segundo número entero a sumar.
+     * @param fac1 Primer número entero a sumar.
+     * @param fac2 Segundo número entero a sumar.
      * @return El resultado de la suma de los dos números enteros.
      */
-    public int sumaEnteros(int a, int b) {
-        return a + b;
+    public int sumaEnteros(int fac1, int fac2) {
+        return fac1 + fac2;
     }
 
     /**
      * Suma tres números reales.
      *
-     * @param a Primer número real a sumar.
-     * @param b Segundo número real a sumar.
-     * @param c Tercer número real a sumar.
+     * @param fac1 Primer número real a sumar.
+     * @param fac2 Segundo número real a sumar.
+     * @param fac3 Tercer número real a sumar.
      * @return El resultado de la suma de los tres números reales.
      */
-    public double sumaTresReales(double a, double b, double c) {
-        return a + b + c;
+    public double sumaTresReales(double fac1, double fac2, double fac3) {
+        return fac1 + fac2 + fac3;
     }
 
     /**
