@@ -45,7 +45,7 @@ public class Resta {
      * @param num1 - Número real que introducirá el usuario.
      * @param num2 - Número real que introducirá el usuario.
      * @param num3 - Número real que introducirá el usuario.
-     * @return
+     * @return - Resultado de la operación de resta de tres números reales.
      */
     public double restaTresReales(double num1, double num2, double num3) {
         return num1 - num2 - num3;
