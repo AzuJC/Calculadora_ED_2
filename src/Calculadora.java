@@ -4,6 +4,7 @@
  * incluyendo divisiones y raíces cuadradas, delegando los cálculos a la clase Division.
  *
  * @todo Actualmente, el manejo de excepciones es básico y va a mejorarse en futuras versiones.
+ * @todo Anadir el resto de funcionalidades en las operaciones
  *
  * @author Azucena Jimenez Castaneda <geoazu.flysch@gmail.com>
  * @see Cociente
